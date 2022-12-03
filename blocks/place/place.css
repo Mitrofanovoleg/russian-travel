@@ -1,4 +1,4 @@
-.places {
+.place {
     max-width: 984px;
     margin: 0 auto 0 auto;
     padding: 92px 0 92px 0;
@@ -7,13 +7,13 @@
 }
 
 @media screen and (max-width: 1024px) {
-    .places {
+    .place {
         padding: 92px 48px 92px 48px;
     }
 }
 
 @media screen and (max-width: 768px) {
-    .places {
+    .place {
         padding: 92px 0px 90px 0px;
         margin: 0 24px 0 24px;
         gap: 73px;
@@ -21,7 +21,7 @@
 }
 
 @media screen and (max-width: 320px) {
-    .places {
+    .place {
         padding: 64px 0 66px 0;
         gap: 50px;
         margin: 0;
