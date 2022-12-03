@@ -8,14 +8,16 @@
 
 @media screen and (max-width: 1024px) {
     .header {
-        padding: 28px 48px 48px 48px;
+        padding-bottom: 48px;
     }
 
 }
 
 @media screen and (max-width: 768px) {
     .header {
-        padding: 28px 24px 49px 24px;
+        padding-right: 24px;
+        padding-bottom: 49px;
+        padding-left: 24px
     }
 }
 

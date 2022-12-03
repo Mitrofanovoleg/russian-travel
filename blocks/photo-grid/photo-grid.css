@@ -9,20 +9,23 @@
 @media screen and (max-width: 1024px) {
     .photo-grid {
         gap: 14px;
-        padding: 0 48px 0 48px;
+        padding-right: 48px;
+        padding-left: 48px;
     }
 }
 
 @media screen and (max-width: 768px) {
     .photo-grid {
         gap: 16px;
-        padding: 0 24px 0 24px;
+        padding-right: 24px;
+        padding-left: 24px;
     }
 }
 
 @media screen and (max-width: 320px) {
     .photo-grid {
         gap: 12px;
-        padding: 0 16px 0 16px;
+        padding-right: 16px;
+        padding-left: 16px;
     }
 }

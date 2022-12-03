@@ -10,7 +10,8 @@
 @media screen and (max-width: 768px) {
     .intro__text {
         max-width: 720px;
-        margin: 40px auto 33px auto;
+        margin-right: auto;
+        margin-left: auto;
     }
 }
 
@@ -23,6 +24,6 @@
 @media screen and (max-width: 320px) {
     .intro__text {
         max-width: 288px;
-        margin: 41px 19px 34px 16px;
+        margin-right: 19px;
     }
 }

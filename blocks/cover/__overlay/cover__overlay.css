@@ -25,12 +25,13 @@
 
 .cover__overlay:hover:after {
     opacity: 0.8;
+    width: 100%;
+    height: auto;
 }
 
 @media screen and (max-width: 1024px) {
     .cover__overlay {
         padding: 195px 232px;
-
     }
 }
 
@@ -39,8 +40,6 @@
         padding: 115px 104px;
     }
 }
-
-
 
 @media screen and (max-width: 500px) {
     .cover__overlay {
